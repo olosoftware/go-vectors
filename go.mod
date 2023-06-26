@@ -1,3 +1,3 @@
-module github.com/PatrickVienne/go-vectors
+module github.com/olosoftware/go-vectors
 
 go 1.17
